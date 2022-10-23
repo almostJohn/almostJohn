@@ -1,3 +1,3 @@
-I write code.
+Really just some dude that codes and plonks on guitars...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almostJohn&theme=dark&layout=compact)](https://github.com/almostJohn/)
