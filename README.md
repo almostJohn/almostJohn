@@ -1,3 +1,3 @@
-Really just some dude that codes and plonks on guitars...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almostJohn&theme=dark&layout=compact)](https://github.com/almostJohn/)
+• Rainenthusiast and notorious over thinker<br />
+• Sometimes I write code; sometimes it even works *(Predominantly TypeScript, learning some python having a peek at rust)*<br />
+• Really just some dude that codes and plonks on guitars...
